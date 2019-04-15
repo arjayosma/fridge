@@ -1,175 +1,62 @@
-Welcome to our Privacy Policy
-=============================
+## Privacy Policy
 
-### Your privacy is critically important to us.
+SevTech, Inc. built the Fridge app as a Free app. This SERVICE is provided by SevTech, Inc. at no cost and is intended for use as is.
 
-Fridge is located at:
+This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
-Fridge\
-BMI Building Brgy. Pinagkaisahan, Makati \
-1213 - Metro Manila , Philippines639177026839
+If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-It is Fridge’s policy to respect your privacy regarding any information
-we may collect while operating our website. This Privacy Policy applies
-to
-[https://www.facebook.com/Fridge-2619646941384309](https://www.facebook.com/Fridge-2619646941384309)
-(hereinafter, "us", "we", or
-"https://www.facebook.com/Fridge-2619646941384309"). We respect your
-privacy and are committed to protecting personally identifiable
-information you may provide us through the Website. We have adopted this
-privacy policy ("Privacy Policy") to explain what information may be
-collected on our Website, how we use this information, and under what
-circumstances we may disclose the information to third parties. This
-Privacy Policy applies only to information we collect through the
-Website and does not apply to our collection of information from other
-sources.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Fridge unless otherwise defined in this Privacy Policy.
 
-This Privacy Policy, together with the Terms and conditions posted on
-our Website, set forth the general rules and policies governing your use
-of our Website. Depending on your activities when visiting our Website,
-you may be required to agree to additional terms and conditions.
+**Information Collection and Use**
 
-Website Visitors
-----------------
+For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.
 
-Like most website operators, Fridge collects non-personally-identifying
-information of the sort that web browsers and servers typically make
-available, such as the browser type, language preference, referring
-site, and the date and time of each visitor request. Fridge’s purpose in
-collecting non-personally identifying information is to better
-understand how Fridge’s visitors use its website. From time to time,
-Fridge may release non-personally-identifying information in the
-aggregate, e.g., by publishing a report on trends in the usage of its
-website.
+The app does use third party services that may collect information used to identify you.
 
-Fridge also collects potentially personally-identifying information like
-Internet Protocol (IP) addresses for logged in users and for users
-leaving comments on https://www.facebook.com/Fridge-2619646941384309
-blog posts. Fridge only discloses logged in user and commenter IP
-addresses under the same circumstances that it uses and discloses
-personally-identifying information as described below.
+Link to privacy policy of third party service providers used by the app
 
-Gathering of Personally-Identifying Information
------------------------------------------------
+*   [Google Play Services](https://www.google.com/policies/privacy/)
 
-Certain visitors to Fridge’s websites choose to interact with Fridge
-in ways that require Fridge to gather personally-identifying
-information. The amount and type of information that Fridge gathers
-depends on the nature of the interaction. For example, we ask visitors
-who sign up for a blog at
-https://www.facebook.com/Fridge-2619646941384309 to provide a username
-and email address.
+**Log Data**
 
-Security
---------
+We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
 
-The security of your Personal Information is important to us, but
-remember that no method of transmission over the Internet, or method of
-electronic storage is 100% secure. While we strive to use commercially
-acceptable means to protect your Personal Information, we cannot
-guarantee its absolute security.
+**Cookies**
 
-Advertisements
---------------
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
-Ads appearing on our website may be delivered to users by advertising
-partners, who may set cookies. These cookies allow the ad server to
-recognize your computer each time they send you an online advertisement
-to compile information about you or others who use your computer. This
-information allows ad networks to, among other things, deliver targeted
-advertisements that they believe will be of most interest to you. This
-Privacy Policy covers the use of cookies by Fridge and does not cover
-the use of cookies by any advertisers.
+This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
-Links To External Sites
------------------------
+**Service Providers**
 
-Our Service may contain links to external sites that are not operated by
-us. If you click on a third party link, you will be directed to that
-third party's site. We strongly advise you to review the Privacy Policy
-and terms and conditions of every site you visit.
+We may employ third-party companies and individuals due to the following reasons:
 
-We have no control over, and assume no responsibility for the content,
-privacy policies or practices of any third party sites, products or
-services.
+*   To facilitate our Service;
+*   To provide the Service on our behalf;
+*   To perform Service-related services; or
+*   To assist us in analyzing how our Service is used.
 
-Protection of Certain Personally-Identifying Information
---------------------------------------------------------
+We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
-Fridge discloses potentially personally-identifying and
-personally-identifying information only to those of its employees,
-contractors and affiliated organizations that (i) need to know that
-information in order to process it on Fridge’s behalf or to provide
-services available at Fridge’s website, and (ii) that have agreed not to
-disclose it to others. Some of those employees, contractors and
-affiliated organizations may be located outside of your home country; by
-using Fridge’s website, you consent to the transfer of such information
-to them. Fridge will not rent or sell potentially personally-identifying
-and personally-identifying information to anyone. Other than to its
-employees, contractors and affiliated organizations, as described above,
-Fridge discloses potentially personally-identifying and
-personally-identifying information only in response to a subpoena, court
-order or other governmental request, or when Fridge believes in
-good faith that disclosure is reasonably necessary to protect the
-property or rights of Fridge, third parties or the public at large.
+**Security**
 
-If you are a registered user of
-https://www.facebook.com/Fridge-2619646941384309 and have supplied your
-email address, Fridge may occasionally send you an email to tell you
-about new features, solicit your feedback, or just keep you up to date
-with what’s going on with Fridge and our products. We primarily use our
-blog to communicate this type of information, so we expect to keep this
-type of email to a minimum. If you send us a request (for example via a
-support email or via one of our feedback mechanisms), we reserve the
-right to publish it in order to help us clarify or respond to your
-request or to help us support other users. Fridge takes all measures
-reasonably necessary to protect against the unauthorized access, use,
-alteration or destruction of potentially personally-identifying and
-personally-identifying information.
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
 
-Aggregated Statistics
----------------------
+**Links to Other Sites**
 
-Fridge may collect statistics about the behavior of visitors to its
-website. Fridge may display this information publicly or provide it to
-others. However, Fridge does not disclose your personally-identifying
-information.
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-Cookies
--------
+**Children’s Privacy**
 
-To enrich and perfect your online experience, Fridge uses "Cookies",
-similar technologies and services provided by others to display
-personalized content, appropriate advertising and store your preferences
-on your computer.
+These Services do not address anyone under the age of 13\. We do not knowingly collect personally identifiable information from children under 13\. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
 
-A cookie is a string of information that a website stores on a visitor’s
-computer, and that the visitor’s browser provides to the website each
-time the visitor returns. Fridge uses cookies to help Fridge identify
-and track visitors, their usage of
-https://www.facebook.com/Fridge-2619646941384309, and their website
-access preferences. Fridge visitors who do not wish to have cookies
-placed on their computers should set their browsers to refuse cookies
-before using Fridge’s websites, with the drawback that certain features
-of Fridge’s websites may not function properly without the aid of
-cookies.
+**Changes to This Privacy Policy**
 
-By continuing to navigate our website without changing your cookie
-settings, you hereby acknowledge and agree to Fridge's use of cookies.
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
-Privacy Policy Changes
-----------------------
+**Contact Us**
 
-Although most changes are likely to be minor, Fridge may change its
-Privacy Policy from time to time, and in Fridge’s sole discretion.
-Fridge encourages visitors to frequently check this page for any changes
-to its Privacy Policy. Your continued use of this site after any change
-in this Privacy Policy will constitute your acceptance of such change.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
 
-Credit & Contact Information
-----------------------------
-
-This privacy policy was created at
-[termsandconditionstemplate.com](https://termsandconditionstemplate.com/privacy-policy-generator/ "Privacy policy template generator").
-If you have any questions about this Privacy Policy, please contact us
-via [email](mailto:) or [phone](tel:639177026839).
+This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/)
