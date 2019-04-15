@@ -3,7 +3,7 @@ Welcome to our Privacy Policy
 
 ### Your privacy is critically important to us.
 
-Fridge is located at:\
+Fridge is located at:
 
 Fridge\
 BMI Building Brgy. Pinagkaisahan, Makati \
