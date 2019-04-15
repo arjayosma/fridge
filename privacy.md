@@ -52,8 +52,8 @@ personally-identifying information as described below.
 Gathering of Personally-Identifying Information
 -----------------------------------------------
 
-Certain visitors to Fridge’s websites choose to interact with SevTech,
-Inc. in ways that require Fridge to gather personally-identifying
+Certain visitors to Fridge’s websites choose to interact with Fridge
+in ways that require Fridge to gather personally-identifying
 information. The amount and type of information that Fridge gathers
 depends on the nature of the interaction. For example, we ask visitors
 who sign up for a blog at
@@ -109,7 +109,7 @@ and personally-identifying information to anyone. Other than to its
 employees, contractors and affiliated organizations, as described above,
 Fridge discloses potentially personally-identifying and
 personally-identifying information only in response to a subpoena, court
-order or other governmental request, or when SevTech, Inc. believes in
+order or other governmental request, or when Fridge believes in
 good faith that disclosure is reasonably necessary to protect the
 property or rights of Fridge, third parties or the public at large.
 
@@ -151,7 +151,7 @@ https://www.facebook.com/Fridge-2619646941384309, and their website
 access preferences. Fridge visitors who do not wish to have cookies
 placed on their computers should set their browsers to refuse cookies
 before using Fridge’s websites, with the drawback that certain features
-of SevTech, Inc.’s websites may not function properly without the aid of
+of Fridge’s websites may not function properly without the aid of
 cookies.
 
 By continuing to navigate our website without changing your cookie
